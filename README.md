@@ -12,7 +12,7 @@ When I am not working I usually spend my time with doing Photography, Photo Edit
 
 ### Connect with me:
 
-<a href="https://www.facebook.com/profile.php?id=100005429806880"><img align="left" alt="Facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@4.24.0/icons/facebook.svg" width="22px" /></a>
+<a href="https://www.facebook.com/profile.php?id=100005429806880"><img align="left" alt="Facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@4.24.0/icons/facebook.svg" width="22px" style={color:white} /></a>
 <a href="https://www.linkedin.com/in/abhijit-biswas-0975351a5/"><img align="left" alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" /></a>
 <a href="https://www.instagram.com/abhi.jit12/"><img align="left" alt="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="22px" /></a>
 <br/>
