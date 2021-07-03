@@ -45,6 +45,9 @@ When I am not working I usually spend my time with doing Photography, Photo Edit
 <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=abhijit99biswas&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=700"/>
 </p>
 
+ ## All Laguages
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhijit99biswas)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
 
