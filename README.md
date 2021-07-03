@@ -46,7 +46,10 @@ When I am not working I usually spend my time with doing Photography, Photo Edit
 </p>
 
  ## All Laguages
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhijit99biswas)](https://github.com/anuraghazra/github-readme-stats)
+ <p align="center"> 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhijit99biswas)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+ 
 
 
 </div>
